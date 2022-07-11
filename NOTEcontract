@@ -1,0 +1,87 @@
+{
+    "name": "STIFF.MONEY, LLC PROMISSORY NOTE (NOTE)",
+    "description": "FOR VALUE RECEIVED, the undersigned, Stiff.Money LLC (“Borrower”), hereby promises to 
+    pay to the order of NOTE Token Holder (“Lender”), the principal sum of $10.00 (the “Principal Amount”), 
+    including interest in accordance with the terms set forth below.", 
+    "external_url": "https://stiffmoney.com", 
+    "image": "https://bafkreiggq3qygui76m76xh353o3qaoqcbnzmhrr3itscvkzxq5gw6rk4lq.ipfs.dweb.link/", 
+    "attributes": [
+        {
+            "trait_type": "DateSigned", 
+            "value": "07/04/2022"
+          }, 
+        {
+          "trait_type": "Payment", 
+          "value": "The Principal Amount together with accrued and unpaid interest and all other charges,
+          costs and expenses, is due and payable in full. All payments under this NOTE are applied first to
+          accrued interest and then to the Principal Amount."
+        }, 
+        {
+          "trait_type": "Collateral", 
+          "value": "Borrower agrees that until the Principal Amount of this NOTE together with interest is paid
+          in full, this NOTE will be collateralized by Real Estate purchased by Borrower, and Borrower hereby
+          grants to Lender a collateral interest in such property until full repayment of NOTE."
+        }, 
+        {
+          "trait_type": "Interest", 
+          "value": "The Principal Amount shall bear interest at the rate of 10% charged up receiving
+          principal and due in full upon repayment of NOTE. Notwithstanding, the total interest charged on the
+          Principal Amount shall not exceed the maximum amount allowed by law and Borrower shall not be
+          obligated to pay any interest in excess of such amount."
+        }, 
+        {
+            "trait_type": "Prepayment", 
+            "value": "Borrower has the right to prepay all or any part of the Principal Amount plus Interest of
+            this NOTE at any time without prepayment penalty or premium of any kind."
+        },
+        {
+            "trait_type": "Costs and Fees", 
+            "value": "Upon the occurrence of a NOTE default by Borrower, Borrower shall pay to Lender all
+            costs of collection, including reasonable attorney's fees."
+        },
+        {
+            "trait_type": "Waiver", 
+            "value": "Borrower and all sureties, guarantors and endorsers hereof, waive presentment, protest and
+            demand, notice of protest, demand and dishonor and nonpayment of this NOTE."
+        },
+        {
+            "trait_type": "Assignment", 
+            "value": "Borrower may not assign its rights or delegate its duties under this NOTE."
+        },
+        {
+            "trait_type": "Amendment", 
+            "value": "This NOTE may not be amended or modified by Borrower and Lender."
+        },
+        {
+            "trait_type": "Notifications", 
+            "value": "Any notice or communication under this NOTE must be in writing and posted on StiffMoney.com website."
+        },
+        {
+            "trait_type": "Governing Law", 
+            "value": "This NOTE shall be governed by and construed in accordance with the laws of the State of Wyoming."
+        },
+        {
+            "trait_type": "Miscellaneous", 
+            "value": "This NOTE will inure to the benefit of and be binding on the respective successors
+            and permitted assigns of Lender and Borrower. Lender shall not be deemed to have waived any
+            provision of this NOTE or the exercise of any rights held under this NOTE unless such waiver is made
+            expressly and in writing. Waiver by Lender of a breach or violation of any provision of this NOTE
+            shall not constitute a waiver of any other subsequent breach or violation. In the event that any of the
+            provisions of this NOTE are held to be invalid or unenforceable in whole or in part, the remaining
+            provisions shall not be affected and shall continue to be valid and enforceable as though the invalid or
+            unenforceable parts had not been included in this NOTE."
+        },
+        {
+            "trait_type": "Signature", 
+            "value": "IN WITNESS WHEREOF, the undersigned has executed this NOTE as of the date first stated above."
+        },
+        {
+            "trait_type": "Borrower", 
+            "value": "Stiff.Money, LLC"
+        },
+        {
+            "trait_type": "BorrowerRepresentative", 
+            "value": "Boone Bergsma, Manager"
+        }
+      ] 
+  }
